@@ -23,6 +23,6 @@ The generated password will be displayed in the "Your Secure Password" input fie
 
 ## Screenshots and links
 
-The webpage can be accessed [here] ()
+The webpage can be accessed [here] (https://alexandrazykova.github.io/password-generator/)
 ![screenshot1](images/PG1.png)
 ![screenshot2](images/PG2.png)
